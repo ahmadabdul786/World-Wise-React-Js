@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "b2fd",
+      "cityName": "Kdyne",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2025-08-03T06:15:57.151Z",
+      "notes": "",
+      "position": {
+        "lat": "49.37420988894886",
+        "lng": "13.027184607478995"
+      }
+    },
+    {
+      "id": "7ea0",
+      "cityName": "Beriu",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2025-08-03T06:16:01.514Z",
+      "notes": "",
+      "position": {
+        "lat": "45.81825902463659",
+        "lng": "23.190592859024843"
+      }
+    },
+    {
+      "id": "e532",
+      "cityName": "Novoukrayinka",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2025-08-03T06:16:23.423Z",
+      "notes": "",
+      "position": {
+        "lat": "48.44858742702565",
+        "lng": "31.307154937306652"
+      }
+    }
+  ]
+}
