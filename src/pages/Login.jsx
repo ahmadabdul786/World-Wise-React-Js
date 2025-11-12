@@ -8,26 +8,24 @@ export default function Login() {
   // PRE-FILL FOR DEV PURPOSES
   const [email, setEmail] = useState("jack@example.com");
   const [password, setPassword] = useState("qwerty");
-  
-  const {logIn,isAuthenticated} = useAuth();
+
+  const { logIn, isAuthenticated } = useAuth();
   const nevigate = useNavigate();
-useEffect(()=>{
-if(isAuthenticated){
-nevigate('/app',{replace:true});
-}
-},[isAuthenticated])
+  useEffect(() => {
+    if (isAuthenticated) {
+      nevigate("/app", { replace: true });
+    }
+  }, [isAuthenticated]);
 
-  function handleSubmit(e){
-   
+  function handleSubmit(e) {
     e.preventDefault();
- 
- if(email && password) logIn(email,password);
 
+    if (email && password) logIn(email, password);
   }
 
   return (
     <main className={styles.login}>
-      <PageNav/>
+      <PageNav />
       <form className={styles.form} onSubmit={handleSubmit}>
         <div className={styles.row}>
           <label htmlFor="email">Email address</label>
@@ -50,7 +48,7 @@ nevigate('/app',{replace:true});
         </div>
 
         <div>
-          <Button type ='primary'>login</Button>
+          <Button type="primary">login</Button>
         </div>
       </form>
     </main>

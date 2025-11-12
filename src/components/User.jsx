@@ -10,7 +10,12 @@ const nevigate = useNavigate();
 
   function handleClick() {
     //logOut();
- nevigate('/');
+  const yesNo =   confirm('do you really want to close the application');
+ if(yesNo){ 
+  nevigate('/'); logOut();
+ }
+ 
+
   }
 
   return (

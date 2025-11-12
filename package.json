@@ -11,6 +11,8 @@
     "server": "json-server --watch data/cities.json --port 9000 "
   },
   "dependencies": {
+    "country-flag-emoji": "^1.0.3",
+    "flag-icon-css": "^4.1.7",
     "json": "^11.0.0",
     "json-server": "^1.0.0-beta.3",
     "leaflet": "^1.9.4",

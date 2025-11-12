@@ -1,39 +1,87 @@
 {
   "cities": [
     {
-      "id": "b2fd",
-      "cityName": "Kdyne",
-      "country": "Czechia",
-      "emoji": "🇨🇿",
-      "date": "2025-08-03T06:15:57.151Z",
+      "id": "b84f",
+      "cityName": "Bordj Badji Mokhtar",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2025-10-13T16:27:07.800Z",
       "notes": "",
       "position": {
-        "lat": "49.37420988894886",
-        "lng": "13.027184607478995"
+        "lat": "22.755920681486405",
+        "lng": "-0.8789062500000001"
       }
     },
     {
-      "id": "7ea0",
-      "cityName": "Beriu",
-      "country": "Romania",
-      "emoji": "🇷🇴",
-      "date": "2025-08-03T06:16:01.514Z",
-      "notes": "",
+      "id": "cd55",
+      "cityName": "Tchirozerine",
+      "country": "Niger (the)",
+      "emoji": "",
+      "date": "2025-11-12T18:23:54.315Z",
+      "notes": "abc",
       "position": {
-        "lat": "45.81825902463659",
-        "lng": "23.190592859024843"
+        "lat": "16.13026201203477",
+        "lng": "7.910156250000001"
       }
     },
     {
-      "id": "e532",
-      "cityName": "Novoukrayinka",
-      "country": "Ukraine",
-      "emoji": "🇺🇦",
-      "date": "2025-08-03T06:16:23.423Z",
+      "id": "9eed",
+      "cityName": "Robbah",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2025-11-12T18:26:50.389Z",
       "notes": "",
       "position": {
-        "lat": "48.44858742702565",
-        "lng": "31.307154937306652"
+        "lat": "32.84267363195431",
+        "lng": "6.855468750000001"
+      }
+    },
+    {
+      "id": "ed82",
+      "cityName": "Lokoja",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2025-11-12T18:27:12.986Z",
+      "notes": "",
+      "position": {
+        "lat": "8.233237111274565",
+        "lng": "6.50390625"
+      }
+    },
+    {
+      "id": "b01d",
+      "cityName": "Moloundou",
+      "country": "Cameroon",
+      "emoji": "🇨🇲",
+      "date": "2025-11-12T18:28:52.637Z",
+      "notes": "",
+      "position": {
+        "lat": "2.4601811810210052",
+        "lng": "14.765625000000002"
+      }
+    },
+    {
+      "id": "c2e3",
+      "cityName": "Kozakli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2025-11-12T19:10:18.763Z",
+      "notes": "i love turkey",
+      "position": {
+        "lat": "39.2598625465192",
+        "lng": "34.80468750000001"
+      }
+    },
+    {
+      "id": "278c",
+      "cityName": "Shaqra",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2025-11-12T19:13:13.378Z",
+      "notes": "nice place",
+      "position": {
+        "lat": "25.519129881344863",
+        "lng": "45.23437142372132"
       }
     }
   ]
