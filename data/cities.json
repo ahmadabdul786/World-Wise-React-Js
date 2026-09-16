@@ -37,51 +37,15 @@
       }
     },
     {
-      "id": "ed82",
-      "cityName": "Lokoja",
-      "country": "Nigeria",
-      "emoji": "🇳🇬",
-      "date": "2025-11-12T18:27:12.986Z",
-      "notes": "",
+      "id": "21fd",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-11-26T04:38:51.463Z",
+      "notes": "we ate special apples here",
       "position": {
-        "lat": "8.233237111274565",
-        "lng": "6.50390625"
-      }
-    },
-    {
-      "id": "b01d",
-      "cityName": "Moloundou",
-      "country": "Cameroon",
-      "emoji": "🇨🇲",
-      "date": "2025-11-12T18:28:52.637Z",
-      "notes": "",
-      "position": {
-        "lat": "2.4601811810210052",
-        "lng": "14.765625000000002"
-      }
-    },
-    {
-      "id": "c2e3",
-      "cityName": "Kozakli",
-      "country": "Turkiye",
-      "emoji": "🇹🇷",
-      "date": "2025-11-12T19:10:18.763Z",
-      "notes": "i love turkey",
-      "position": {
-        "lat": "39.2598625465192",
-        "lng": "34.80468750000001"
-      }
-    },
-    {
-      "id": "278c",
-      "cityName": "Shaqra",
-      "country": "Saudi Arabia",
-      "emoji": "🇸🇦",
-      "date": "2025-11-12T19:13:13.378Z",
-      "notes": "nice place",
-      "position": {
-        "lat": "25.519129881344863",
-        "lng": "45.23437142372132"
+        "lat": "48.85001605509756",
+        "lng": "2.3486709594726567"
       }
     }
   ]
